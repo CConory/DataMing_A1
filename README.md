@@ -2,7 +2,7 @@
 
 ## Project title "Construct an Image from the Gaussian noise by the Diffusion Model"  
 
-Teammate   
+### Group  
 Kuang Wenwei (3036033792)  
 Wei Tianqi (3036081804)  
 Chen siwei (3036031823)  
